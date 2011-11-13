@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Dancevideo feature.
+ */
+
+include_once('dancevideo.features.inc');
